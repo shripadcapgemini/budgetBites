@@ -15,8 +15,8 @@ Traditional Households and Retail models (Grocery, Bakeries, Confectionaries, Gr
 
  By leveraging the power of Artificial Intelligence, Data Analytics, NLP, “Budget Bites” empowers the ‘Generators’ to stage their perishable/near-to-expiry products to wider ‘Consumers’ by uploading their products on its easy-to-use platform in their preferred language. “Budget Bites” supports selling as well as charity purposes:
 
-·‘Discounted Sale’ (key features being Automated pricing recommendations based on expiration, flexible discounting options, real-time notifications etc.)
+`Discounted Sale` (key features being Automated pricing recommendations based on expiration, flexible discounting options, real-time notifications etc.)
 
-·‘Gifting’ (key features being real-time notifications, pre-booking, Recommendation facilitations, etc.)
+`Gifting` (key features being real-time notifications, pre-booking, Recommendation facilitations, etc.)
 
 With “Budget Bites”, both ‘Generators’ and ‘Consumers’ can embrace an efficient, optimized, and sustainable approach towards reduction of food-wastage along with contributing to social upliftment with additional benefits of reduced energy and carbon footprint.
